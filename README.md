@@ -2,7 +2,7 @@
 
 
 ## I'm Luis,
-I'm 25 years old and I'm a System Development Analysis student. I'm currently a front-end developer. In my spare time I like to develop personal projects to improve technical skills.
+Front-end developer with over 2 years of experience and System Development Analysis student. Engaged with quality and best practices in the development of user interfaces for web and mobile apps.
 
 
 ## Main tech skills
