@@ -2,15 +2,12 @@
 
 
 ## I'm Luis,
-I'm 24 years old and I'm a System Development Analysis student. I'm currently a front-end developer. In my spare time I like to develop personal projects to improve technical skills.
+I'm 25 years old and I'm a System Development Analysis student. I'm currently a front-end developer. In my spare time I like to develop personal projects to improve technical skills.
 
 
 ## Main tech skills
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Nextjs](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -20,8 +17,6 @@ I'm 24 years old and I'm a System Development Analysis student. I'm currently a 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 
 ## I also have knowledge of...
 
@@ -36,7 +31,6 @@ I'm 24 years old and I'm a System Development Analysis student. I'm currently a 
 ## My latest activities
 
  - [Article on form validation using yup + formik + vite](https://medium.com/@douglasrodrigues37/guia-completo-para-valida%C3%A7%C3%A3o-de-formul%C3%A1rios-em-react-com-formik-e-yup-485aad73d68)
- - [Best practices for getting the most out of tailwind.config.js in React projects](https://medium.com/@douglasrodrigues37/personalizando-o-tailwind-melhores-pr%C3%A1ticas-para-aproveitar-ao-m%C3%A1ximo-o-tailwind-config-js-e46b846c1ee4)
 
 
 ## Community initiatives that I'm envolved
