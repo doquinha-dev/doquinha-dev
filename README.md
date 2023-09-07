@@ -48,5 +48,10 @@ sharing knowledge about JavaScript, HTML, and CSS.
   <a href="https://www.linkedin.com/in/luis-douglas-ab82b392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://t.me/Luis_DouglasR" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  </div>
- </center>
+
    <hr/>
+     <div align="center">
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=if2mrtdomxft8cevixej295zx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=if2mrtdomxft8cevixej295zx&redirect=true)
+      
+  </div>
